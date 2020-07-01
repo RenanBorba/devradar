@@ -21,7 +21,7 @@ Aplicação desenvolvida para o projeto DevRADAR, voltada para cadastro (web) e 
 
 <div align="center">
 
-![devradar](https://user-images.githubusercontent.com/48495838/85322424-b737b280-b49c-11ea-9be4-685581cb757c.png)
+![devradar](https://user-images.githubusercontent.com/48495838/86252992-4a9e7100-bb8a-11ea-95ce-d5e8ebaf4fb8.png)
 
 <br><br>
 
