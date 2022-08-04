@@ -50,7 +50,7 @@ Aplicação Front-end desenvolvida em ReactJS para a versão web responsiva DevR
 
 <br><br><br>
 
-## :mega: Segue abaixo as principais estruturas e interface principal:
+## :mega: Abaixo as principais estruturas e interface principal:
 
 <br><br><br>
 
