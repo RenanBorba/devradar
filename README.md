@@ -11,6 +11,10 @@
   
 [![Generic badge](https://img.shields.io/badge/Made%20by-Renan%20Borba-purple.svg)](https://shields.io/) [![Build Status](https://img.shields.io/github/stars/RenanBorba/devradar.svg)](https://github.com/RenanBorba/devradar) [![Build Status](https://img.shields.io/github/forks/RenanBorba/devradar.svg)](https://github.com/RenanBorba/devradar) [![made-for-VSCode](https://img.shields.io/badge/Made%20for-VSCode-1f425f.svg)](https://code.visualstudio.com/) [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
+<br>
+
+![logo-devradar](https://github.com/RenanBorba/devradar/assets/48495838/377431a8-521f-4411-bdf5-1d5424011981)
+
 </div>
 
 <br>
